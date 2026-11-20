@@ -1,0 +1,6 @@
+{
+  "name": "flashcards",
+  "description": "Turn study material (PDFs, web pages, notes) into Anki flashcards with a review loop: live Anki-like preview, edits by card number, approval, AnkiConnect import. Optional text-to-speech audio and diagrams.",
+  "version": "0.1.0",
+  "keywords": ["anki", "flashcards", "spaced-repetition", "study", "language-learning", "ankiconnect"]
+}

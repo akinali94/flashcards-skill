@@ -1,0 +1,14 @@
+{
+  "name": "flashcards-skill",
+  "description": "Anki flashcard workflow for Claude Code.",
+  "owner": {
+    "name": "akinali94"
+  },
+  "plugins": [
+    {
+      "name": "flashcards",
+      "source": "./",
+      "description": "Turn study material into Anki flashcards with a live preview, edits by card number, approval and AnkiConnect import. Optional audio and diagrams."
+    }
+  ]
+}
